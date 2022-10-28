@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gaurav-Nambiar
 - 👀 I’m interested in Software Engineering, Front End, DataScience, Ml
-- 🌱 I’m currently learning Probelm Solving.
+- 🌱 I’m currently becomming an expert in Probelm Solving.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaurav-Nambiar)](https://github.com/anuraghazra/github-readme-stats)
 
